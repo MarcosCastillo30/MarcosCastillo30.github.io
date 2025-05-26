@@ -7,5 +7,5 @@ This repository will hold assignments.
 ## My Interests
 My interests include video games, watching movies, and Basketball.
 ## Websites I Recommend
-[Youtube](https://www.youtube.com/) - A very useful video platform, which contains all sorts of information and entertainment.
+[Youtube](https://www.youtube.com/) - A very useful video platform, which contains all sorts of information and entertainment.  
 [Reddit](https://www.reddit.com/) - A discussion website where people share information and is useful for seeking advice.
