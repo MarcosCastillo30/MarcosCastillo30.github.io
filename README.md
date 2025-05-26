@@ -1,4 +1,4 @@
-Marcos Castillo <br>
+Marcos Castillo<br>
 mcastillo10@my.waketech.edu<br>
 I'm using my Wake Tech email for my GitHub account.<br>
 This repository will hold assignments.
